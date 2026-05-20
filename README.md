@@ -50,3 +50,7 @@ Author
 Ameet Salvi Mumbai, India
 
 LinkedIn: (Add your LinkedIn URL)
+
+<img width="1011" height="535" alt="image" src="https://github.com/user-attachments/assets/197dc4bd-c524-4f2f-b6e6-2840c20a9646" />
+
+<img width="1013" height="448" alt="image" src="https://github.com/user-attachments/assets/a289bd96-0428-461e-a7df-f7a6a07ff152" />
